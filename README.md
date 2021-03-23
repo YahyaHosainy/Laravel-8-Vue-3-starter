@@ -1,22 +1,21 @@
 # Laravel-vue-3-starter
 
-It's a pre-configured project using Laravel 8 and Vue 3
+Its an starter for laravel 8 and vue 3 projects
+to install just clone it :
 
-to get it up and run just clone it and enhoy coding :
-
-     git clone https://github.com/boussadjra/laravel-vue-3-starter.git
-
-     cd laravel-vue-3-starter
-
-
+```js
+git clone https://github.com/YahyaHosainy/Laravel-8-Vue-3-starter
+cd laravel-vue-3-starter
+```
 
 then install backend modules by running 
-
-     composer install
-
+```js
+composer install
+```
 and front-end modules :
-
-     npm install
+```js
+npm install
+```
 
 finally add your magic.     
 
